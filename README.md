@@ -6,5 +6,5 @@
 - 💞️ I’m looking to collaborate on mall project
 - 📫 How to reach me mjnwdar@hotmail.com
 
-
+blog: https://j2eevip.github.io
 
