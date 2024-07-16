@@ -1,6 +1,6 @@
-# Self introduction
+# This is me.
 
-- 👋 Hi, I’m @j2eevip
+- 👋 Hi, I’m Lucifer.Yuan
 - 👀 I’m interested in C++, Delphi, VUE, React, JAVA
 - 🌱 I’m currently learning springboot & springcloud & leetcode
 - 💞️ I’m looking to collaborate on mall project
